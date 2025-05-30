@@ -1,4 +1,14 @@
-<a href="https://khansarwar.github.io/planetarium.github.io/" class="button">   Home   </a> <a href="/button1/" class="button" > Button 1 </a> <a href="/button2/" class="button"> Button 2 </a> <a href="/planetarium.github.io/contact" class="button"> Contact </a> <a href="/planetarium.github.io/about" class="button"> About Me </a>
+<style>
+  .my-button {
+    color: #fff;
+    padding: 5px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 5px;
+    text-align: right;
+  }
+</style>
+<a href="https://khansarwar.github.io/planetarium.github.io/" class="my-button">   Home   </a> <a href="/button1/" class="my-button" > Button 1 </a> <a href="/button2/" class="my-button"> Button 2 </a> <a href="/planetarium.github.io/contact" class="my-button"> Contact </a> <a href="/planetarium.github.io/about" class="my-button"> About Me </a>
 <br>
 <br>
 📞: +49 (0)228-525-214
