@@ -1,6 +1,5 @@
 <style>
   .my-button {
-    background-image: url('background.jpg'); background-size: cover; background-position: center; padding: 100px; border-radius: 12px;
     color: #fff;
     padding: 5px 30px;
     border-radius: 5px;
