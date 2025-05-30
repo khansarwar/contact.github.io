@@ -1,6 +1,5 @@
 <style>
   .my-button {
-    color: #fff;
     padding: 5px 30px;
     border-radius: 5px;
     text-decoration: none;
