@@ -7,7 +7,7 @@ title: Contact
 
 📞: +49 (0)228-525-214
 
-✉: skhan@mpifr-bonn.mp
+✉: <a href="mailto:skhan@mpifr-bonn.mp">skhan@mpifr-bonn.mp</a>
 
 ## Address:
 
