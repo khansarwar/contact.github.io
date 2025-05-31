@@ -15,7 +15,7 @@ title: Contact
   }
 </style>
 
-<a href="https://khansarwar.github.io/planetarium.github.io/" class="my-button">   Home   </a> <a href="/button1/" class="my-button" > Button 1 </a> <a href="/button2/" class="my-button"> Button 2 </a> <a href="https://khansarwar.github.io/contact.github.io/" class="my-button"> Contact </a> <a href="/planetarium.github.io/about" class="my-button"> About Me </a>
+<a href="https://khansarwar.github.io/planetarium.github.io/" class="my-button">   Home   </a> <a href="/button1/" class="my-button" > Button 1 </a> <a href="/button2/" class="my-button"> Button 2 </a> <a href="https://khansarwar.github.io/contact.github.io/" class="my-button"> Contact </a> <a href="https://khansarwar.github.io/aboutme.github.io/" class="my-button"> About Me </a>
 <br>
 <br>
 
